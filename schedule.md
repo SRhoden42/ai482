@@ -64,7 +64,7 @@
 <tr>
 <td class="org-left">Wed-1-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Session Protocol 3</td>
+<td class="org-left">Spencer Rhoden</td>
 </tr>
 
 
